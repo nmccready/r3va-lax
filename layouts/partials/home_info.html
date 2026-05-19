@@ -1,0 +1,21 @@
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+    <header class="entry-header">
+        {{- with .Logo }}
+        <p style="text-align:center;margin-bottom:1.25rem;">
+            <img src="{{ . | relURL }}" alt="{{ site.Title }}" style="max-width:240px;height:auto;" />
+        </p>
+        {{- end }}
+        <h1>{{ .Title | markdownify }}</h1>
+        {{- with .Subtitle }}
+        <p class="home-subtitle" style="opacity:.75;font-style:italic;margin-top:.25rem;">{{ . | markdownify }}</p>
+        {{- end }}
+    </header>
+    <div class="entry-content">
+        {{ .Content | markdownify }}
+    </div>
+    <footer class="entry-footer">
+        {{ partial "social_icons.html" site.Params.socialIcons }}
+    </footer>
+</article>
+{{- end -}}

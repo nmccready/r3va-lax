@@ -1,0 +1,53 @@
+# Canonical sources for tournament-level facts mentioned on the R3VA Lax site.
+#
+# `url` is the organizer's authoritative page. If `TBD`, the agent must ask the
+# user for the real URL before running WebFetch — do not invent one.
+#
+# `mentioned_in` is the list of files where this tournament's name / date /
+# venue appears and which must be kept in sync.
+#
+# `overrides` documents deliberate local phrasing that should NOT be flagged as
+# drift on future runs. Add an entry the first time the user confirms a diff is
+# intentional.
+
+tournaments:
+  - key: legends-eastern-invitational
+    display_name: "Legends Eastern Invitational"
+    dates: "2026-06-27/2026-06-28"
+    city: "Midlothian"
+    state: "VA"
+    url: https://legendslax.com/event/legends-eastern-invitational-26/
+    registration_url: http://legendslax.leagueapps.com/tournaments/4741136-legends-eastern-invitational-2026
+    mentioned_in:
+      - hugo.yaml
+      - content/teams/_index.md
+      - content/interest.md
+      - GOOGLE_FORM_SPEC.md
+    overrides: []
+
+  - key: freedom-lax-fest
+    display_name: "Freedom Lax Fest"
+    dates: "2026-07-11/2026-07-12"
+    city: "Havelock"
+    state: "NC"
+    url: https://www.cclaxtourney.com/
+    registration_url: https://playmetrics.com/signup?clubToken=U2lnbnVwLkdCLlYyLTExNjUtQ3J5c3RhbCBDb2FzdCBMYWNyb3NzZSBUb3VybmFtZW50cy0tMTc2NTQ3NjYyMnxySFBTb0RCNGZxMWUrNHFPMGZnRHQwM1g5dXMxVi9UVHVkbXo0eGxZOTNJPQ==&program_id=1696
+    registration_deadline: "2026-07-01"
+    deposit_deadline: "2026-06-10"
+    mentioned_in:
+      - hugo.yaml
+      - content/teams/_index.md
+      - content/interest.md
+      - GOOGLE_FORM_SPEC.md
+    overrides: []
+
+# Practice venue — not a tournament, but the same drift problem applies.
+venues:
+  - key: rivercity-sportsplex
+    display_name: "River City Sportsplex"
+    city: "Richmond"
+    state: "VA"
+    url: TBD
+    mentioned_in:
+      - hugo.yaml
+      - content/teams/_index.md

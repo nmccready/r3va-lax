@@ -1,0 +1,8 @@
+[tools]
+go = "1.25"
+node = "24"
+
+[settings]
+# Auto-install missing tool versions when entering a directory
+# (mirrors proto's auto-install = true)
+auto_install = true

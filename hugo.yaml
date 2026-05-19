@@ -1,0 +1,131 @@
+baseURL: "https://nmccready.github.io/r3va-lax/"
+languageCode: "en-us"
+title: "R3VA Lax"
+paginate: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: R3VA Lax
+  description: "Revolution Lacrosse Richmond — Summer 2026 youth lacrosse for Rising 3rd–8th graders (8U–13U) in Richmond, VA."
+  keywords:
+    - R3VA
+    - Revolution Lacrosse Richmond
+    - Youth Lacrosse Richmond VA
+    - Rising 3rd Grade Lacrosse
+    - Rising 4th Grade Lacrosse
+    - Rising 5th Grade Lacrosse
+    - Rising 6th Grade Lacrosse
+    - Rising 7th Grade Lacrosse
+    - Rising 8th Grade Lacrosse
+    - Summer 2026 Lacrosse
+    - Richmond Virginia Youth Sports
+    - R(3)>< Lacrosse Philosophy Balanced Development
+
+  author: R3VA Lax
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark
+  disableThemeToggle: true
+
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
+  UseHugoToc: false
+  comments: false
+  hidemeta: true
+  hideSummary: false
+  showtoc: false
+
+  assets:
+    favicon: "images/r3va-logo.png"
+    favicon16x16: "images/r3va-logo.png"
+    favicon32x32: "images/r3va-logo.png"
+    apple_touch_icon: "images/r3va-logo.png"
+
+  label:
+    text: "R3VA Lax"
+    iconHeight: 32
+
+  homeInfoParams:
+    Logo: "images/r3va-logo.png"
+    Title: "Revolution Lacrosse Richmond"
+    Subtitle: "Summer 2026 — Rising 3rd through 8th graders"
+    Content: |
+      R3VA is Richmond, VA's **cost-effective** youth lacrosse program. We sit between expensive travel clubs and recreational leagues — focused on the holistic development of the athlete, not financial extraction or short-term accolades.
+      <br>
+      <br>
+      **Our mission.** Cultivate a love for lacrosse via fundamental skill development and a positive, educational environment. Foster athletic growth and game understanding via comprehensive training. Emphasize fun, fair competitive play, focusing on player development and engagement over winning.
+      <br>
+      <br>
+      **How we coach.** Maximizing touches and stressing the fundamentals of the game. We prioritize player development and engagement over winning, to stress fun and learning over short-term results. We want players to love the game and to feel like they are improving, which is the best way to ensure long-term growth and success.
+      <br>
+      <br>
+      **Cost is transparent.** Per-player pricing covers tournament entry, refs, fields, insurance, and a small ~15% operational margin for sustainability. No hidden fees — full breakdown shared up front.
+      <br>
+      <br>
+      **Six age bands for Summer 2026:**
+
+      - 8U — Class of 2036
+      - 9U — Class of 2035
+      - 10U — Class of 2034
+      - 11U — Class of 2033
+      - 12U — Class of 2032
+      - 13U — Class of 2031
+
+      Two tournaments:
+
+      - Legends Eastern Invitational (Jun 27–28, River City Sportsplex, Midlothian VA)
+      - Freedom Lax Fest (Jul 11–12, Havelock NC)
+
+      → **[Vote Early Summer 26 Interest](/r3va-lax/interest/)** — Tell us which age group your player wants. We run a team if enough kids vote yes.
+
+      → [See age group details](/r3va-lax/teams/) &nbsp;·&nbsp; [Full mission and philosophy](/r3va-lax/about/)
+
+  socialIcons:
+    - name: instagram
+      url: "https://www.instagram.com/r3va_lax/"
+    - name: facebook
+      url: "https://www.facebook.com/groups/1330099118755980/"
+
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: false
+
+menu:
+  main:
+    - identifier: interest
+      name: "Vote Early Summer 26 Interest"
+      url: /interest/
+      weight: 10
+    - identifier: teams
+      name: "Teams"
+      url: /teams/
+      weight: 20
+    - identifier: about
+      name: "About"
+      url: /about/
+      weight: 30
+    - identifier: contact
+      name: "Contact"
+      url: /contact/
+      weight: 40
+
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true

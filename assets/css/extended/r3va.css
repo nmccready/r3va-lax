@@ -1,0 +1,91 @@
+/* R3VA Lax — brand overrides for PaperMod dark theme */
+
+:root {
+  --r3va-teal: #00C4D4;
+  --r3va-teal-dark: #0098a8;
+  --r3va-black: #0d0d0d;
+}
+
+/* Teal accent on links and highlights */
+.dark a,
+a {
+  color: var(--r3va-teal);
+}
+
+.dark a:hover,
+a:hover {
+  color: var(--r3va-teal-dark);
+}
+
+/* Site header / nav */
+.nav {
+  border-bottom: 2px solid var(--r3va-teal);
+}
+
+/* Home hero title */
+.home-info .entry-header h1 {
+  font-size: 1.8rem;
+  color: var(--r3va-teal);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+/* Restore list bullets/numbers inside the home hero copy — PaperMod's reset
+   strips ul padding globally and only re-adds it under .post-content. */
+.home-info .entry-content ul,
+.home-info .entry-content ol {
+  padding-inline-start: 1.5rem;
+  margin: 0.5rem 0;
+}
+.home-info .entry-content ul {
+  list-style: disc outside;
+}
+.home-info .entry-content ol {
+  list-style: decimal outside;
+}
+.home-info .entry-content li {
+  margin-top: 0.25rem;
+}
+
+/* CTA button style for register links */
+a[href="/register/"],
+a[href*="playpass.com"] {
+  display: inline-block;
+  background: var(--r3va-teal);
+  color: #000 !important;
+  font-weight: 700;
+  padding: 0.5rem 1.25rem;
+  border-radius: 4px;
+  text-decoration: none;
+  margin-top: 0.5rem;
+  letter-spacing: 0.03em;
+}
+
+a[href="/register/"]:hover,
+a[href*="playpass.com"]:hover {
+  background: var(--r3va-teal-dark);
+}
+
+/* Team section headings */
+.post-content h2 {
+  color: var(--r3va-teal);
+  border-bottom: 1px solid var(--r3va-teal-dark);
+  padding-bottom: 0.2rem;
+}
+
+/* Post/page title */
+.post-title {
+  color: var(--r3va-teal);
+}
+
+/* Breadcrumbs */
+.breadcrumbs a {
+  color: var(--r3va-teal-dark);
+}
+
+/* Footer */
+.footer {
+  border-top: 1px solid #1a1a1a;
+  font-size: 0.8rem;
+  color: #666;
+}

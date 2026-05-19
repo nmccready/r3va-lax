@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "defaultMode": "default",
+    "allow": [
+      "Read",
+      "Glob",
+      "Grep",
+      "Edit($CLAUDE_PROJECT_DIR/**)",
+      "Write($CLAUDE_PROJECT_DIR/**)",
+
+      "Bash(/bin/ls *)",
+      "Bash(/bin/ls)",
+      "Bash(/bin/cat *)",
+      "Bash(/bin/pwd)",
+      "Bash(grep *)",
+      "Bash(awk *)",
+      "Bash(find . *)",
+      "Bash(echo *)",
+
+      "Bash(git status*)",
+      "Bash(git diff*)",
+      "Bash(git log*)",
+      "Bash(git show*)",
+      "Bash(git branch*)",
+      "Bash(git add *)",
+      "Bash(git stash*)",
+      "Bash(git commit*)",
+
+      "Bash(hugo*)",
+      "Bash($CLAUDE_PROJECT_DIR/.agents/skills/sync-tournament-details/scripts/extract-site-facts.sh *)",
+      "Bash(bash $CLAUDE_PROJECT_DIR/.agents/skills/*)",
+
+      "WebFetch(domain:forms.gle)",
+      "WebFetch(domain:forms.google.com)",
+      "WebFetch(domain:docs.google.com)",
+      "WebFetch(domain:drive.google.com)",
+      "WebFetch(domain:elitesixchallenge.com)",
+      "WebFetch(domain:usalacrosse.com)",
+      "WebFetch(domain:worldlacrosse.sport)",
+      "WebFetch(domain:legendslax.com)",
+      "WebFetch(domain:freedomlaxfest.com)",
+      "WebFetch(domain:tourneymachine.com)",
+
+      "mcp__claude_ai_Google_Drive__search_files",
+      "mcp__claude_ai_Google_Drive__read_file_content",
+      "mcp__claude_ai_Google_Drive__download_file_content",
+      "mcp__claude_ai_Google_Drive__get_file_metadata",
+      "mcp__claude_ai_Google_Drive__list_recent_files"
+    ],
+    "deny": [
+      "Bash(rm *)",
+      "Bash(rm -rf *)",
+      "Bash(rmdir *)",
+      "Bash(mv *)",
+      "Bash(sudo *)",
+      "Bash(git push --force*)",
+      "Bash(git push -f*)",
+      "Bash(git push --force-with-lease*)",
+      "Bash(git reset --hard*)",
+      "Bash(git checkout -- *)",
+      "Bash(git clean -f*)",
+      "Bash(git branch -D *)",
+      "mcp__claude_ai_Google_Drive__create_file",
+      "mcp__claude_ai_Google_Drive__copy_file"
+    ]
+  }
+}
