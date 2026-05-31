@@ -29,7 +29,7 @@ You'll tell us:
 
 - **Your player's name and grade in Fall 2026**
 - **Which age group(s) interest you** — 8U, 9U, 10U, 11U, 12U, or 13U
-- **Season preference** — June (Richmond, VA tournament) or July (NC tournament)
+- **Tournament** — Legends Eastern Invitational, June 27–28, 2026 (River City Sportsplex, Midlothian, VA)
 - **Prior lacrosse experience** — none, some, or experienced
 - **Parent contact info** — so we can reach you when teams form
 
@@ -37,16 +37,20 @@ You'll tell us:
 
 ## Age Groups
 
-We're considering teams across six age bands for Summer 2026:
+We're considering teams across six age bands for Summer 2026.
 
-- **8U** — Class of 2036
-- **9U** — Class of 2035
-- **10U** — Class of 2034
-- **11U** — Class of 2033
-- **12U** — Class of 2032
-- **13U** — Class of 2031
+**Important:** The Legends Eastern Invitational uses **March 1, 2026** as its age cutoff — not the US Lacrosse standard of August 31. Your child qualifies for a bracket if they had **not yet turned [age+1] by March 1, 2026**.
 
-*Age groups are based on US Lacrosse standards. "U" = "and under" by [Aug 31, 2026](https://www.usalacrosse.com/node/328456). Final team format depends on enrollment and may vary per tournament.*
+| Bracket | Qualifies if born after | Primary class | Also eligible |
+|---------|------------------------|---------------|---------------|
+| **8U** | March 1, 2017 | Class of 2036 | Class of 2035 (born after 3/1/2017) |
+| **9U** | March 1, 2016 | Class of 2035 | Class of 2034 (born after 3/1/2016) |
+| **10U** | March 1, 2015 | Class of 2034 | Class of 2033 (born after 3/1/2015) |
+| **11U** | March 1, 2014 | Class of 2033 | Class of 2032 (born after 3/1/2014) |
+| **12U** | March 1, 2013 | Class of 2032 | Class of 2031 (born after 3/1/2013) |
+| **13U** | March 1, 2012 | Class of 2031 | Class of 2030 (born after 3/1/2012) |
+
+Not sure which bracket applies? [Contact us](/contact/) with your player's birthday and we'll confirm.
 
 [See full age group details →](/teams/)
 
@@ -55,10 +59,9 @@ We're considering teams across six age bands for Summer 2026:
 ## What Happens After You Vote
 
 1. **You submit interest** — takes 60 seconds.
-2. **We tally votes by 5/24/2026** — usually 1 week after launch.
-3. **We confirm which teams are running** — and which (if any) we have to drop.
-4. **You register** — only the confirmed teams. Full registration with payment on PlayPass.
-5. **Team Portal opens** — for schedules, rosters, communication, etc. (usually SPOND or similar)
+2. **We tally votes and confirm which teams are running** — we'll reach out as soon as we have enough to form a team.
+3. **You register** — only confirmed teams. Full registration with payment on PlayPass.
+4. **Team Portal opens** — for schedules, rosters, communication, etc. (usually SPOND or similar)
 
 ---
 

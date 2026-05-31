@@ -5,20 +5,34 @@ showToc: false
 hidemeta: true
 ---
 
-## Age Groups Supported for Summer 2026
+## Age Groups — Summer 2026
 
 We're planning teams across six age bands. **All teams pending sufficient interest** — we run a team only if enough players vote yes.
 
-Final details (rosters, format, schedule) are kept in the Interest Form and our internal Google Drive — this page just lists which bands we'll consider.
+### How Age Works at Legends Eastern Invitational
 
-- **8U** — Class of 2036
-- **9U** — Class of 2035
-- **10U** — Class of 2034
-- **11U** — Class of 2033
-- **12U** — Class of 2032
-- **13U** — Class of 2031
+This tournament uses **March 1, 2026** as its age cutoff — not the US Lacrosse standard of August 31. That means:
 
-*"U" = "and under" by [Aug 31, 2026](https://www.usalacrosse.com/node/328456) per US Lacrosse standards.*
+> **Your child plays in the bracket where they were still that age on March 1, 2026.**
+
+Because the cutoff falls mid-school-year, each bracket can include players from two graduation classes — the "younger" class where most players land, and some players from the next older class whose birthdays fall after March 1.
+
+**Simple rule:** if your child had not yet turned [age+1] by March 1, 2026 — they qualify for the [age]U bracket.
+
+### Age Bracket Reference
+
+| Bracket | Qualifies if born after | Primary class | Also eligible |
+|---------|------------------------|---------------|---------------|
+| **8U** | March 1, 2017 | Class of 2036 | Class of 2035 (born after 3/1/2017) |
+| **9U** | March 1, 2016 | Class of 2035 | Class of 2034 (born after 3/1/2016) |
+| **10U** | March 1, 2015 | Class of 2034 | Class of 2033 (born after 3/1/2015) |
+| **11U** | March 1, 2014 | Class of 2033 | Class of 2032 (born after 3/1/2014) |
+| **12U** | March 1, 2013 | Class of 2032 | Class of 2031 (born after 3/1/2013) |
+| **13U** | March 1, 2012 | Class of 2031 | Class of 2030 (born after 3/1/2012) |
+
+**Example:** The Legends 10U bracket is open to any player born after March 1, 2015 — that covers all of Class of 2034 and Class of 2033 players with spring/summer birthdays.
+
+If you're unsure which bracket your child falls in, [contact us](/contact/) with their birthday and we'll confirm.
 
 [**Vote Early Summer 26 Interest →**](/r3va-lax/interest/)
 
