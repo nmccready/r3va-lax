@@ -1,36 +1,37 @@
 ---
 title: "Teams — Summer 2026"
-description: "R3VA age group teams: 8U–13U for Summer 2026"
+description: "R3VA age group teams: 10U–14U for Summer 2026 (Legends Eastern Invitational)"
 showToc: false
 hidemeta: true
 ---
 
 ## Age Groups — Summer 2026
 
-We're planning teams across six age bands. **All teams pending sufficient interest** — we run a team only if enough players vote yes.
+We're planning teams across five age bands. **All teams pending sufficient interest** — we run a team only if enough players vote yes.
 
-### How Age Works at Legends Eastern Invitational
+### How Age Brackets Work at Legends Eastern Invitational
 
-This tournament uses **March 1, 2026** as its age cutoff — not the US Lacrosse standard of August 31. That means:
+The Legends Eastern Invitational uses **March 1** as its age cutoff. Your child's bracket is determined by their birthday relative to March 1, 2026 — not the US Lacrosse standard of August 31.
 
-> **Your child plays in the bracket where they were still that age on March 1, 2026.**
+> **Your child's bracket = the class year whose cutoff date falls right after their birthday.**
 
-Because the cutoff falls mid-school-year, each bracket can include players from two graduation classes — the "younger" class where most players land, and some players from the next older class whose birthdays fall after March 1.
-
-**Simple rule:** if your child had not yet turned [age+1] by March 1, 2026 — they qualify for the [age]U bracket.
+Because this cutoff differs from the typical school-year calendar, each Legends bracket spans parts of two US Lacrosse graduation classes. The 2035 bracket is our youngest team — it is open to all players born after March 1, 2016, including those who will be 8 or 9 at tournament time.
 
 ### Age Bracket Reference
 
-| Bracket | Qualifies if born after | Primary class | Also eligible |
-|---------|------------------------|---------------|---------------|
-| **8U** | March 1, 2017 | Class of 2036 | Class of 2035 (born after 3/1/2017) |
-| **9U** | March 1, 2016 | Class of 2035 | Class of 2034 (born after 3/1/2016) |
-| **10U** | March 1, 2015 | Class of 2034 | Class of 2033 (born after 3/1/2015) |
-| **11U** | March 1, 2014 | Class of 2033 | Class of 2032 (born after 3/1/2014) |
-| **12U** | March 1, 2013 | Class of 2032 | Class of 2031 (born after 3/1/2013) |
-| **13U** | March 1, 2012 | Class of 2031 | Class of 2030 (born after 3/1/2012) |
+| Legends Bracket | Born between | Typical age at June tournament |
+|----------------|-------------|-------------------------------|
+| **2035 — 10U 8v8** | After March 1, 2016 (no lower limit) | 8, 9, or 10 years old |
+| **2034 — 11U** | March 2, 2015 – March 1, 2016 | 10 or 11 years old |
+| **2033 — 12U** | March 2, 2014 – March 1, 2015 | 11 or 12 years old |
+| **2032 — 13U** | March 2, 2013 – March 1, 2014 | 12 or 13 years old |
+| **2031 — 14U** | March 2, 2012 – March 1, 2013 | 13 or 14 years old |
 
-**Example:** The Legends 10U bracket is open to any player born after March 1, 2015 — that covers all of Class of 2034 and Class of 2033 players with spring/summer birthdays.
+**Examples:**
+- Born **June 2016** → 2035 bracket (10U) — turns 10 in summer 2026
+- Born **November 2015** → 2034 bracket (11U) — born after March 1, 2015 but before March 1, 2016
+- Born **September 2014** → 2033 bracket (12U) — turns 12 in fall 2026
+- Born **January 2015** → 2034 bracket (11U) — born after March 2, 2014 but before March 1, 2016
 
 If you're unsure which bracket your child falls in, [contact us](/contact/) with their birthday and we'll confirm.
 

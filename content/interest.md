@@ -28,7 +28,7 @@ We'll run a team if enough kids vote yes. We'll let you know within 2 weeks whet
 You'll tell us:
 
 - **Your player's name and grade in Fall 2026**
-- **Which age group(s) interest you** — 8U, 9U, 10U, 11U, 12U, or 13U
+- **Which bracket interests you** — 2035 (10U), 2034 (11U), 2033 (12U), 2032 (13U), or 2031 (14U)
 - **Tournament** — Legends Eastern Invitational, June 27–28, 2026 (River City Sportsplex, Midlothian, VA)
 - **Prior lacrosse experience** — none, some, or experienced
 - **Parent contact info** — so we can reach you when teams form
@@ -37,18 +37,19 @@ You'll tell us:
 
 ## Age Groups
 
-We're considering teams across six age bands for Summer 2026.
+We're running five teams for Summer 2026, based on the Legends Eastern Invitational's **March 1** age cutoff.
 
-**Important:** The Legends Eastern Invitational uses **March 1, 2026** as its age cutoff — not the US Lacrosse standard of August 31. Your child qualifies for a bracket if they had **not yet turned [age+1] by March 1, 2026**.
+> Your child's bracket = the Legends class whose cutoff date falls right after their birthday.
 
-| Bracket | Qualifies if born after | Primary class | Also eligible |
-|---------|------------------------|---------------|---------------|
-| **8U** | March 1, 2017 | Class of 2036 | Class of 2035 (born after 3/1/2017) |
-| **9U** | March 1, 2016 | Class of 2035 | Class of 2034 (born after 3/1/2016) |
-| **10U** | March 1, 2015 | Class of 2034 | Class of 2033 (born after 3/1/2015) |
-| **11U** | March 1, 2014 | Class of 2033 | Class of 2032 (born after 3/1/2014) |
-| **12U** | March 1, 2013 | Class of 2032 | Class of 2031 (born after 3/1/2013) |
-| **13U** | March 1, 2012 | Class of 2031 | Class of 2030 (born after 3/1/2012) |
+| Legends Bracket | Born between | Typical age at June tournament |
+|----------------|-------------|-------------------------------|
+| **2035 — 10U 8v8** | After March 1, 2016 | 8, 9, or 10 years old |
+| **2034 — 11U** | March 2, 2015 – March 1, 2016 | 10 or 11 years old |
+| **2033 — 12U** | March 2, 2014 – March 1, 2015 | 11 or 12 years old |
+| **2032 — 13U** | March 2, 2013 – March 1, 2014 | 12 or 13 years old |
+| **2031 — 14U** | March 2, 2012 – March 1, 2013 | 13 or 14 years old |
+
+The **2035 bracket has no lower age limit** — players who would normally be 8U or 9U play here.
 
 Not sure which bracket applies? [Contact us](/contact/) with your player's birthday and we'll confirm.
 
