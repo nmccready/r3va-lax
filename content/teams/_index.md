@@ -69,11 +69,11 @@ Final cost depends on format and tournament chosen. R3VA covers all team-level e
 | Format | Tournament | Roster Size | Per Player |
 |---|---|---|---|
 | **7v7** | NC (July) | 12–15 | **$215** |
-| **8v8** | Richmond (June) | 14–17 | **$265** |
+| **8v8** | Richmond (June) | 14–17 | **$241** |
 | **10v10** | NC (July) | 16–18 | **$200** |
-| **10v10** | Richmond (June) | 16–24 | **$282** |
+| **10v10** | Richmond (June) | 16–24 | **$241** |
 
-*Source: R3VA 2026 Internal Cost Breakdown. Larger rosters spread fixed costs (tournament entry, field rental) across more players.*
+*Richmond (June) rates are the live registration price on PlayPass. NC (July) rates are estimates from the R3VA 2026 Internal Cost Breakdown — larger rosters spread fixed costs (tournament entry, field rental) across more players.*
 
 ---
 
