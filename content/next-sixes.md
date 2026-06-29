@@ -15,15 +15,9 @@ R3VA is planning our next **Sixes** tournament — the fast-paced, high-touch 6v
 
 ## What Is Sixes?
 
-Sixes is the Olympic-style lacrosse format — 6v6, smaller field, constant transition, more touches for every player.
+Sixes is the Olympic-style 6v6 format — smaller field, constant transition, and more touches for every player. It's the fastest-growing format in youth and elite lacrosse, and the game for the **2028 LA Olympics**.
 
-- **Roster:** 12–15 players
-- **Field:** ~70×40 yards (half a standard field)
-- **Game length:** 4×8-minute running-time quarters
-- **Face-offs:** Only at the start of each quarter — restarts are quick-goalie-clears after goals
-- **No long poles:** All short sticks, all the time — rewards footwork and positioning
-
-> Sixes is the fastest-growing format in youth and elite lacrosse. It's the format for the **2028 LA Olympics** — the game our kids will grow up watching.
+→ **[See the full Sixes Format breakdown](/sixes/)** — field size, pace, and why we build R3VA around it.
 
 ---
 

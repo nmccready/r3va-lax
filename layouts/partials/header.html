@@ -119,6 +119,19 @@
                 {{- end }}
             </div>
         </div>
+        <button class="menu-toggle" id="menu-toggle" aria-label="Toggle menu" aria-controls="menu" aria-expanded="false">
+            <svg class="icon-open" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24"
+                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="3" y1="6" x2="21" y2="6"></line>
+                <line x1="3" y1="12" x2="21" y2="12"></line>
+                <line x1="3" y1="18" x2="21" y2="18"></line>
+            </svg>
+            <svg class="icon-close" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24"
+                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="18" y1="6" x2="6" y2="18"></line>
+                <line x1="6" y1="6" x2="18" y2="18"></line>
+            </svg>
+        </button>
         {{- $currentPage := . }}
         <ul id="menu">
             {{- range site.Menus.main }}
@@ -147,3 +160,24 @@
         </ul>
     </nav>
 </header>
+<script>
+    (function () {
+        var btn = document.getElementById("menu-toggle");
+        var nav = btn && btn.closest(".nav");
+        if (!btn || !nav) return;
+        function setOpen(open) {
+            nav.classList.toggle("menu-open", open);
+            btn.setAttribute("aria-expanded", open ? "true" : "false");
+        }
+        btn.addEventListener("click", function () {
+            setOpen(!nav.classList.contains("menu-open"));
+        });
+        // Close when a menu link is tapped or when resizing up to desktop
+        nav.querySelectorAll("#menu a").forEach(function (a) {
+            a.addEventListener("click", function () { setOpen(false); });
+        });
+        window.addEventListener("resize", function () {
+            if (window.innerWidth > 900) setOpen(false);
+        });
+    })();
+</script>

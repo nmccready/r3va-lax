@@ -89,3 +89,76 @@ a[href*="playpass.com"]:hover {
   font-size: 0.8rem;
   color: #666;
 }
+
+/* --- Responsive hamburger navigation --- */
+.menu-toggle {
+  display: none;
+  background: none;
+  border: 0;
+  cursor: pointer;
+  padding: 6px;
+  margin: auto 4px;
+  color: var(--primary);
+  align-items: center;
+}
+.menu-toggle svg {
+  display: block;
+}
+/* Show the "open" icon by default, swap to the "close" (X) when menu is open */
+.menu-toggle .icon-close {
+  display: none;
+}
+.nav.menu-open .menu-toggle .icon-open {
+  display: none;
+}
+.nav.menu-open .menu-toggle .icon-close {
+  display: block;
+}
+
+/* Collapse the inline menu into a hamburger dropdown on tablet + mobile */
+@media screen and (max-width: 900px) {
+  .nav {
+    position: relative;
+  }
+  .menu-toggle {
+    display: inline-flex;
+  }
+  #menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    align-items: stretch;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    max-height: 0;
+    background: var(--theme);
+    border-bottom: 2px solid var(--r3va-teal);
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.35);
+    transition: max-height 0.25s ease;
+    z-index: 50;
+  }
+  .nav.menu-open #menu {
+    max-height: 85vh;
+    overflow-y: auto;
+  }
+  #menu li {
+    margin: 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.07);
+  }
+  #menu li + li {
+    margin-inline-start: 0;
+  }
+  #menu a {
+    display: block;
+    padding: 0.9rem var(--gap);
+    font-size: 17px;
+  }
+  #menu .active {
+    border-bottom: 0;
+    color: var(--r3va-teal);
+    font-weight: 700;
+  }
+}
