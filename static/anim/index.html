@@ -39,17 +39,25 @@
   .btn{font-size:12px;font-weight:600;text-decoration:none;color:#fff;
        background:var(--cyan);padding:7px 12px;border-radius:8px;border:0;cursor:pointer;white-space:nowrap}
   .btn.ghost{background:transparent;border:1px solid var(--line);color:#cdd6e0}
+  .homelink{display:inline-flex;align-items:center;gap:7px;text-decoration:none;
+       font-size:13px;font-weight:600;color:#cdd6e0;background:var(--panel);
+       border:1px solid var(--line);padding:8px 14px;border-radius:999px}
+  .homelink:hover{border-color:var(--cyan);color:#fff}
+  header .brandlink{display:flex;align-items:center;gap:16px;text-decoration:none;color:inherit}
   footer{max-width:1240px;margin:30px auto 0;color:var(--muted);font-size:12.5px;text-align:center;line-height:1.7}
   footer code{background:var(--panel);border:1px solid var(--line);padding:2px 7px;border-radius:6px;color:#cdd6e0}
 </style>
 </head>
 <body>
   <header>
-    <img src="../images/r3va-logo.png" alt="R3VA LAX">
-    <div>
-      <h1>R<b>3</b>VA LAX — Brand Reveal</h1>
-      <div class="sub">Three exports of the same animation — compare side by side</div>
-    </div>
+    <a class="brandlink" href="../" title="Back to R3VA Lax home">
+      <img src="../images/r3va-logo.png" alt="R3VA LAX">
+      <div>
+        <h1>R<b>3</b>VA LAX — Brand Reveal</h1>
+        <div class="sub">Three exports of the same animation — compare side by side</div>
+      </div>
+    </a>
+    <a class="homelink" href="../">← Back to R3VA Lax</a>
     <div class="seq">Sequence: <b>RVA → REVOLUTION → RVCA → R3VA</b> → logo</div>
   </header>
 
