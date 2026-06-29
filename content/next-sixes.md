@@ -81,7 +81,7 @@ We follow [US Lacrosse Sixes rules](https://www.usalacrosse.com/sites/default/fi
 
 We run R3VA tournaments the same way we run teams — transparent, cost-effective, no hidden fees.
 
-Estimated per-player cost: **$40–60** (depends on field rental, refs, and number of teams). Final pricing confirmed when we lock the venue.
+Per-player pricing will be announced once we lock the venue and finalize details.
 
 ---
 
