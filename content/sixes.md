@@ -42,7 +42,7 @@ that feels closer to **basketball's non-stop flow** than to a traditional 10v10 
 | **Field** | ~70 yds × 40 yds (roughly one-third of a traditional field) |
 | **Game length** | Four short running-clock quarters |
 | **Shot clock** | 30 seconds to get a shot off |
-| **Scoring** | 1 point normally; **2 points** on goals from beyond the arc |
+| **Scoring** | One point per goal |
 | **Faceoffs** | Draw to start each quarter; possession awarded after goals |
 | **Positions** | No offsides — all field players roam end to end |
 | **Sticks** | All short sticks; fast self-start restarts keep play moving |
