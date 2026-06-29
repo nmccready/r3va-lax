@@ -114,6 +114,10 @@ menu:
       name: "Next Sixes"
       url: /next-sixes/
       weight: 20
+    - identifier: sixes
+      name: "Sixes Format"
+      url: /sixes/
+      weight: 25
     - identifier: about
       name: "About"
       url: /about/
