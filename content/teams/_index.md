@@ -35,8 +35,6 @@ Because this cutoff differs from the typical school-year calendar, each Legends 
 
 If you're unsure which bracket your child falls in, [contact us](/contact/) with their birthday and we'll confirm.
 
-[**Vote Early Summer 26 Interest →**](/r3va-lax/interest/)
-
 ---
 
 ## Season Options

@@ -91,8 +91,6 @@ params:
       - Legends Eastern Invitational (Jun 27–28, River City Sportsplex, Midlothian VA)
       - Freedom Lax Fest (Jul 11–12, Havelock NC)
 
-      → **[Vote Early Summer 26 Interest](/r3va-lax/interest/)** — Tell us which age group your player wants. We run a team if enough kids vote yes.
-
       → [See age group details](/r3va-lax/teams/) &nbsp;·&nbsp; [Full mission and philosophy](/r3va-lax/about/)
 
   socialIcons:
@@ -108,22 +106,26 @@ params:
 
 menu:
   main:
-    - identifier: interest
-      name: "Vote Early Summer 26 Interest"
-      url: /interest/
-      weight: 10
     - identifier: teams
       name: "Teams"
       url: /teams/
+      weight: 10
+    - identifier: next-sixes
+      name: "Next Sixes"
+      url: /next-sixes/
       weight: 20
     - identifier: about
       name: "About"
       url: /about/
       weight: 30
+    - identifier: brand
+      name: "Brand"
+      url: /anim/
+      weight: 40
     - identifier: contact
       name: "Contact"
       url: /contact/
-      weight: 40
+      weight: 50
 
 pygmentsUseClasses: true
 markup:
