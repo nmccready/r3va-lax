@@ -10,7 +10,7 @@ hidemeta: true
 
 Coaching lacrosse in Richmond since 2019 — see [Who Am I](/posts/1-who-am-i/) for the full story.
 
-**Playing background:** Goalie at Lynchburg College (now the University of Lynchburg), 1998–2002.
+**Playing background:** South Carroll High School, 1993–1998 (JV starter, 1997–98) · Goalie at Lynchburg College (now the University of Lynchburg), 1998–2002.
 
 | Program | Role | Years |
 |---|---|---|
