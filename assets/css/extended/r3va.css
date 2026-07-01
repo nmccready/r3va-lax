@@ -17,9 +17,70 @@ a:hover {
   color: var(--r3va-teal-dark);
 }
 
-/* Site header / nav */
+/* Site header / nav — sticky, glassy, teal-accented */
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(13, 13, 13, 0.82);
+  backdrop-filter: saturate(140%) blur(10px);
+  -webkit-backdrop-filter: saturate(140%) blur(10px);
+}
 .nav {
   border-bottom: 2px solid var(--r3va-teal);
+}
+.logo a {
+  letter-spacing: 0.02em;
+}
+.logo a img {
+  border: 1px solid rgba(0, 196, 212, 0.35);
+  border-radius: 6px;
+}
+
+/* Branded logo lockup — logo + "R3VA LAX" wordmark */
+.brand-logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+}
+.brand-logo img {
+  height: 36px;
+  width: auto;
+  background: #fff;
+  border-radius: 8px;
+  padding: 3px;
+  border: 1px solid rgba(0, 196, 212, 0.25);
+  /* reset PaperMod's base .logo a img tweaks so the lockup sits flush */
+  transform: none;
+  margin-inline-end: 0;
+}
+.brand-wordmark {
+  font-size: 22px;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  color: #e8edf2;
+  white-space: nowrap;
+}
+.brand-wordmark b {
+  color: var(--r3va-teal);
+  font-weight: 800;
+}
+/* Desktop menu items: pill hover + teal active underline */
+#menu a {
+  padding: 4px 12px;
+  border-radius: 7px;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+#menu a:hover {
+  color: var(--r3va-teal);
+  background: rgba(0, 196, 212, 0.1);
+}
+#menu .active {
+  color: var(--r3va-teal);
+  border-bottom: 2px solid var(--r3va-teal);
+  border-radius: 0;
+  padding-bottom: 2px;
 }
 
 /* Home hero title */

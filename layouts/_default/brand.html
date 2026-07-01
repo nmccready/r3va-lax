@@ -1,0 +1,100 @@
+{{- define "main" }}
+<style>
+  .brand-hero{max-width:var(--main-width);margin:0 auto 28px;display:flex;align-items:center;
+       gap:16px;flex-wrap:wrap}
+  .brand-hero img{height:54px;width:auto;background:#fff;border-radius:12px;padding:6px}
+  .brand-hero h1{font-size:22px;font-weight:800;letter-spacing:.01em;color:#e8edf2}
+  .brand-hero h1 b{color:var(--r3va-teal)}
+  .brand-hero .sub{color:var(--secondary);font-size:13px;margin-top:2px}
+  .brand-seq{margin-left:auto;font-size:13px;color:var(--secondary);background:var(--entry);
+       border:1px solid var(--border);padding:8px 14px;border-radius:999px}
+  .brand-seq b{color:#e8edf2}
+  .brand-grid{max-width:var(--main-width);margin:0 auto;display:grid;gap:22px;
+        grid-template-columns:repeat(auto-fit,minmax(300px,1fr))}
+  .brand-card{background:var(--entry);border:1px solid var(--border);border-radius:18px;
+        overflow:hidden;display:flex;flex-direction:column}
+  .brand-card .top{padding:16px 18px 12px;border-bottom:1px solid var(--border);
+             display:flex;align-items:center;justify-content:space-between;gap:10px}
+  .brand-card .top h2{font-size:16px;font-weight:700;border:0;padding:0;color:inherit}
+  .brand-badge{font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;
+         color:var(--r3va-teal);background:rgba(0,196,212,.12);
+         border:1px solid rgba(0,196,212,.3);padding:3px 9px;border-radius:6px}
+  .brand-stage{position:relative;background:#0b0e13;aspect-ratio:1/1;display:grid;place-items:center}
+  .brand-stage iframe,.brand-stage video,.brand-stage img{width:100%;height:100%;border:0;
+       object-fit:contain;display:block;margin:0}
+  .brand-meta{padding:13px 18px;font-size:12.5px;color:var(--secondary);
+        display:flex;justify-content:space-between;align-items:center;gap:8px;border-top:1px solid var(--border)}
+  .brand-meta .specs{line-height:1.5}
+  .brand-actions{display:flex;gap:8px}
+  .brand-btn{font-size:12px;font-weight:600;text-decoration:none;color:#000;
+       background:var(--r3va-teal);padding:7px 12px;border-radius:8px;border:0;cursor:pointer;white-space:nowrap}
+  .brand-btn.ghost{background:transparent;border:1px solid var(--border);color:#cdd6e0}
+  .brand-note{max-width:var(--main-width);margin:30px auto 0;color:var(--secondary);
+       font-size:12.5px;text-align:center;line-height:1.7}
+  .brand-note code{background:var(--entry);border:1px solid var(--border);padding:2px 7px;border-radius:6px;color:#cdd6e0}
+</style>
+
+<div class="post-single">
+  <div class="brand-hero">
+    <img src="{{ "images/r3va-logo.png" | relURL }}" alt="R3VA LAX">
+    <div>
+      <h1>R<b>3</b>VA LAX — Brand Reveal</h1>
+      <div class="sub">Three exports of the same animation — compare side by side</div>
+    </div>
+    <div class="brand-seq">Sequence: <b>RVA → REVOLUTION → RVCA → R3VA</b> → logo</div>
+  </div>
+
+  <div class="brand-grid">
+    <!-- WEB -->
+    <div class="brand-card">
+      <div class="top"><h2>🌐 Web (live)</h2><span class="brand-badge">HTML / CSS</span></div>
+      <div class="brand-stage"><iframe id="webframe" src="{{ "anim/r3va-intro.html" | relURL }}" title="web animation" loading="lazy"></iframe></div>
+      <div class="brand-meta">
+        <div class="specs">Self-contained · 8&nbsp;KB<br>Editable master · scales infinitely</div>
+        <div class="brand-actions">
+          <button class="brand-btn" onclick="reloadWeb()">↻ Replay</button>
+          <a class="brand-btn ghost" href="{{ "anim/r3va-intro.html" | relURL }}" target="_blank" rel="noopener">Open ⇗</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- MP4 -->
+    <div class="brand-card">
+      <div class="top"><h2>🎬 Video (MP4)</h2><span class="brand-badge">H.264</span></div>
+      <div class="brand-stage">
+        <video id="mp4" src="{{ "anim/r3va-intro.mp4" | relURL }}" autoplay muted loop playsinline></video>
+      </div>
+      <div class="brand-meta">
+        <div class="specs">1080×1080 · 30fps · 7s<br>584&nbsp;KB · social / intro ready</div>
+        <div class="brand-actions">
+          <button class="brand-btn" onclick="document.getElementById('mp4').play()">▶ Play</button>
+          <a class="brand-btn ghost" href="{{ "anim/r3va-intro.mp4" | relURL }}" download>Download</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- GIF -->
+    <div class="brand-card">
+      <div class="top"><h2>🎞️ GIF</h2><span class="brand-badge">Loop</span></div>
+      <div class="brand-stage"><img id="gif" src="{{ "anim/r3va-intro.gif" | relURL }}" alt="gif animation"></div>
+      <div class="brand-meta">
+        <div class="specs">600px · 25fps<br>3.1&nbsp;MB · chat / email drop-in</div>
+        <div class="brand-actions">
+          <button class="brand-btn" onclick="reloadGif()">↻ Replay</button>
+          <a class="brand-btn ghost" href="{{ "anim/r3va-intro.gif" | relURL }}" download>Download</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="brand-note">
+    Files live in <code>static/anim/</code> of the r3va-lax site repo.<br>
+    All three are the same animation — the MP4 &amp; GIF were rendered frame-by-frame from the Web master.
+  </div>
+</div>
+
+<script>
+  function reloadWeb(){ const f=document.getElementById('webframe'); f.src=f.src; }
+  function reloadGif(){ const g=document.getElementById('gif'); const s=g.src.split('?')[0]; g.src=s+'?'+Date.now(); }
+</script>
+{{- end }}

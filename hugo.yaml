@@ -55,6 +55,7 @@ params:
 
   label:
     text: "R3VA Lax"
+    icon: "images/r3va-logo.png"
     iconHeight: 32
 
   homeInfoParams:
