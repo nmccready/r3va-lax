@@ -123,6 +123,10 @@ menu:
       name: "About"
       url: /about/
       weight: 30
+    - identifier: coaching
+      name: "Coaching"
+      url: /coaching/
+      weight: 35
     - identifier: brand
       name: "Brand"
       url: /anim/
