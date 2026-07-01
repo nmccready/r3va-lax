@@ -10,6 +10,8 @@ hidemeta: true
 
 Coaching lacrosse in Richmond since 2019 — see [Who Am I](/posts/1-who-am-i/) for the full story.
 
+**Playing background:** Goalie at Lynchburg College (now the University of Lynchburg), 1998–2002.
+
 | Program | Role | Years |
 |---|---|---|
 | **R3VA (Richmond Revolution Lacrosse)** | Owner & Head Coach | 2025–Present |
