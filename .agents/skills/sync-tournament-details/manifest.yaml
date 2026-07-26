@@ -41,6 +41,21 @@ tournaments:
       - GOOGLE_FORM_SPEC.md
     overrides: []
 
+  - key: elite-sixes-summer-challenge
+    display_name: "Elite Sixes Summer Challenge (R3VA August Sixes)"
+    dates: "2026-08-30"
+    city: "Elkridge"
+    state: "MD"
+    venue: "Troy Park"
+    url: https://elitesixchallenge.com/tournaments
+    registration_url: https://playpass.com/go/AZCK6hg
+    mentioned_in:
+      - hugo.yaml
+      - content/next-sixes.md
+      - content/teams/_index.md
+      - content/interest.md
+    overrides: []
+
 # Practice venue — not a tournament, but the same drift problem applies.
 venues:
   - key: rivercity-sportsplex

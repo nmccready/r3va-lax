@@ -1,15 +1,61 @@
 ---
-title: "Next Sixes — Coming Soon"
-description: "R3VA's next sixes lacrosse tournament. Fast-paced 6v6 format. Get your team on the list."
+title: "August Sixes — Elite Sixes, Aug 30"
+description: "R3VA returns to Elite Sixes on Sunday, August 30, 2026 at Troy Park, Elkridge MD. Two practices, three-plus tournament games, $200 per player. Registration is open."
 showToc: false
 hidemeta: true
 ---
 
-## The Next Sixes Tournament
+## R3VA August Sixes — Registration Is Open
 
-R3VA is planning our next **Sixes** tournament — the fast-paced, high-touch 6v6 format our players love. We ran two successful events in 2025 (August and November) and we're lining up the next one.
+R3VA is returning to **Elite Sixes** on **Sunday, August 30, 2026** at **[Troy Park, Elkridge MD](https://maps.app.goo.gl/VtYKHEryqKXzQkAcA)** — a single-day tournament with **three games**, plus an optional 4th game pending championship play.
 
-**Date & location TBD** — we're gauging team interest now to lock in a venue and date that works for the most teams.
+Before the tournament we'll run **two 2-hour practices** to establish team dynamics and sixes familiarity. Coaches are assigned to support each age group.
+
+[**Register Now on PlayPass →**](https://playpass.com/go/AZCK6hg)
+
+---
+
+## The Details
+
+| | |
+|---|---|
+| **Tournament** | [Elite Sixes Summer Challenge](https://elitesixchallenge.com/tournaments) |
+| **Date** | Sunday, August 30, 2026 |
+| **Where** | [Troy Park, Elkridge MD](https://maps.app.goo.gl/VtYKHEryqKXzQkAcA) |
+| **Games** | 3 guaranteed, optional 4th pending championship play |
+| **Practices** | Two 2-hour sessions before the tournament |
+| **Cost** | **$200 per player** |
+| **Roster cap** | 15 players max per team |
+
+**Jersey:** Returning players can reuse last year's Elite Sixes jersey (make sure it still fits) — use coupon code **`ELITEJERSEYAUG26`** at registration to deduct the jersey fee. New players receive a jersey as part of registration.
+
+**Competitive note:** The first practice is considered a tryout — some players may be filtered out (and fully reimbursed). This is a high-quality tournament and we're looking to compete.
+
+---
+
+## Age Groups
+
+We're looking to field teams for individual age years where interest allows:
+
+- **2036** — born on/after June 1, 2017 (ages 8–9)
+- **2035** — born on/after June 1, 2016 (ages 9–10)
+- **2034** — born on/after June 1, 2015 (ages 10–11)
+- **2033** — born on/after June 1, 2014 (ages 11–12)
+- **2032** (ages 12–13)
+- **2031** (ages 13–14)
+- **JV** — 2030–2029
+- **Varsity** — 2028–2027
+
+Not sure which bracket fits your player? [Contact us](/contact/) with their birthday and we'll confirm.
+
+---
+
+## Coaches
+
+- **Nick McCready** — University of Lynchburg, Cosby JV Assistant, True Coach
+- **Mac MacDonald** — Virginia State University, True Coach, Women's Assistant Coach at VSU
+- **Tim Rigney** — True Coach
+- **Mitch Behl** — Randolph-Macon College, Cosby JV Head Coach, True Coach
 
 ---
 
@@ -19,35 +65,12 @@ Sixes is the Olympic-style 6v6 format — smaller field, constant transition, an
 
 → **[See the full Sixes Format breakdown](/sixes/)** — field size, pace, and why we build R3VA around it.
 
----
-
-## Why Sixes?
-
 | Traditional 10v10 | Sixes 6v6 |
 |---|---|
 | 10–15 touches per player | 30–40 touches per player |
 | Specialized positions | Everyone plays both ways |
 | Slower pace, set offenses | Constant transition, fast decisions |
 | Large roster (18–24) | Small roster (12–15) = more playing time |
-| Full field (~110 yds) | Half field (~70 yds) = easier to book, lower cost |
-
----
-
-## Who Should Play
-
-- **Age groups:** 10U through 14U (we'll confirm brackets based on interest)
-- **Experience:** Prior lacrosse experience recommended — sixes is fast and rewards stick skills
-- **Teams:** Club teams, rec all-star squads, or mixed rosters — we can help match players to teams
-
----
-
-## Get On The List
-
-We're collecting team and player interest now. No commitment yet — just let us know you want in.
-
-[**Express Interest →**](https://forms.gle/9vrSJmw5R8Cs8Mk99)
-
-*Or [contact us](/contact/) with questions. We'll confirm date, location, and brackets once we have enough teams.*
 
 ---
 
@@ -60,23 +83,6 @@ Both seasons saw strong player development and high retention. Players love the 
 
 ---
 
-## Format & Rules
-
-We follow [US Lacrosse Sixes rules](https://www.usalacrosse.com/sites/default/files/documents/Rules/SIXES-USAL-Rules.pdf) with a few R3VA adjustments:
-
-- **No long poles** (consistent with our developmental philosophy — all short sticks)
-- **Running clock** except final 2 minutes of 4th quarter
-- **No shot clock** for youth divisions (10U/12U) — 30-second shot clock for 14U
-- **Roster min 12, max 15** — guarantees playing time
-
----
-
-## Cost
-
-We run R3VA tournaments the same way we run teams — transparent, cost-effective, no hidden fees.
-
-Per-player pricing will be announced once we lock the venue and finalize details.
-
----
+[**Register Now on PlayPass →**](https://playpass.com/go/AZCK6hg)
 
 *Questions? [Contact us](/contact/)*
