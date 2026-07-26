@@ -5,6 +5,8 @@ showToc: false
 hidemeta: true
 ---
 
+> **🥍 Now registering:** [R3VA August Sixes](/next-sixes/) — Elite Sixes, Sunday Aug 30, 2026. Two practices + 3-game tournament, $200/player. [Register on PlayPass →](https://playpass.com/go/AZCK6hg)
+
 ## Help Us Build the Right Teams
 
 We're planning **Summer 2026** R3VA Lacrosse teams across six age bands (8U–13U). Before we commit to running each team, we need to know who's actually interested.

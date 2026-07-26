@@ -5,6 +5,8 @@ showToc: false
 hidemeta: true
 ---
 
+> **🥍 Now registering:** [R3VA August Sixes](/next-sixes/) — Elite Sixes, Sunday Aug 30, 2026 (Troy Park, Elkridge MD). Two practices + 3-game tournament, $200/player. [Register on PlayPass →](https://playpass.com/go/AZCK6hg)
+
 ## Age Groups — Summer 2026
 
 We're planning teams across five age bands. **All teams pending sufficient interest** — we run a team only if enough players vote yes.
