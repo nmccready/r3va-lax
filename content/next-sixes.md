@@ -55,7 +55,6 @@ Not sure which bracket fits your player? [Contact us](/contact/) with their birt
 - **Nick McCready** — University of Lynchburg, Cosby JV Assistant, True Coach
 - **Mac MacDonald** — Virginia State University, True Coach, Women's Assistant Coach at VSU
 - **Tim Rigney** — True Coach
-- **Mitch Behl** — Randolph-Macon College, Cosby JV Head Coach, True Coach
 
 ---
 
