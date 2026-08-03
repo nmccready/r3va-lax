@@ -61,7 +61,7 @@ params:
   homeInfoParams:
     Logo: "images/r3va-logo.png"
     Title: "Revolution Lacrosse Richmond"
-    Subtitle: "Fall 2026 Sixes — Rising 3rd through 8th graders (plus JV & Varsity)"
+    Subtitle: "Development-first youth lacrosse in Richmond, VA"
     Content: |
       R3VA is Richmond, VA's **cost-effective** youth lacrosse program. We sit between expensive travel clubs and recreational leagues — focused on the holistic development of the athlete, not financial extraction or short-term accolades.
       <br>
@@ -78,23 +78,14 @@ params:
       **Cost is transparent.** Per-player pricing covers tournament entry, refs, fields, insurance, and a small ~15% operational margin for sustainability. No hidden fees — full breakdown shared up front.
       <br>
       <br>
-      **Age bands (individual birth years) for Fall 2026 Sixes:**
+      **The goal is simple:** more touches, better coaching, and a real love for the game — without a travel-club price tag. Grades 3–8 (8U–13U), plus JV and Varsity.
+      <br>
+      <br>
+      **🥍 Now registering for Fall 2026 Sixes.** Kick off the season with our August tournament — more fall dates coming.
 
-      - 8U — Class of 2036
-      - 9U — Class of 2035
-      - 10U — Class of 2034
-      - 11U — Class of 2033
-      - 12U — Class of 2032
-      - 13U — Class of 2031
-      - **JV** — 2030–2029 &nbsp;·&nbsp; **Varsity** — 2028–2027
+      ## → [Register for August Sixes](/r3va-lax/next-sixes/)
 
-      **🥍 Fall 2026 Sixes slate — now registering:**
-
-      - **August — Elite Sixes** · Sun, Aug 30 · Troy Park, Elkridge MD · two practices, 3+ games, $200/player · [Register on PlayPass →](https://playpass.com/r3va-lax/r3va-august-sixes-AZCK6hg)
-      - **November — Madlax Super Sixes** · Sun, Nov 1 · Episcopal HS, Alexandria VA · 6v6, ages 2031–2037 · [Event info →](https://www.madlaxevents.com/supersixes)
-      - **November — Elite Sixes** · Sun, Nov 29 · venue & pricing coming · [Event info →](https://elitesixchallenge.com/tournaments)
-
-      → [August Sixes details](/r3va-lax/next-sixes/) &nbsp;·&nbsp; [See age group details](/r3va-lax/teams/) &nbsp;·&nbsp; [Full mission and philosophy](/r3va-lax/about/)
+      [See age groups](/r3va-lax/teams/) &nbsp;·&nbsp; [Why Sixes?](/r3va-lax/sixes/) &nbsp;·&nbsp; [Our full philosophy](/r3va-lax/about/)
 
   socialIcons:
     - name: instagram
