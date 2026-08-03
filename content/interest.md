@@ -5,7 +5,7 @@ showToc: false
 hidemeta: true
 ---
 
-> **🥍 Now registering:** [R3VA August Sixes](/next-sixes/) — Elite Sixes, Sunday Aug 30, 2026. Two practices + 3-game tournament, $200/player. [Register on PlayPass →](https://playpass.com/go/AZCK6hg)
+> **🥍 Now registering:** [R3VA August Sixes](/next-sixes/) — Elite Sixes, Sunday Aug 30, 2026. Two practices + 3-game tournament, $200/player. [Register on PlayPass →](https://playpass.com/r3va-lax/r3va-august-sixes-AZCK6hg)
 
 ## Help Us Build the Right Teams
 
