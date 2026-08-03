@@ -11,7 +11,7 @@ R3VA is returning to **Elite Sixes** on **Sunday, August 30, 2026** at **[Troy P
 
 Before the tournament we'll run **two 2-hour practices** to establish team dynamics and sixes familiarity. Coaches are assigned to support each age group.
 
-[**Register Now on PlayPass →**](https://playpass.com/go/AZCK6hg)
+[**Register Now on PlayPass →**](https://playpass.com/r3va-lax/r3va-august-sixes-AZCK6hg)
 
 ---
 
@@ -82,6 +82,6 @@ Both seasons saw strong player development and high retention. Players love the 
 
 ---
 
-[**Register Now on PlayPass →**](https://playpass.com/go/AZCK6hg)
+[**Register Now on PlayPass →**](https://playpass.com/r3va-lax/r3va-august-sixes-AZCK6hg)
 
 *Questions? [Contact us](/contact/)*

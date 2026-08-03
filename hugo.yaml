@@ -15,7 +15,7 @@ minify:
 params:
   env: production
   title: R3VA Lax
-  description: "Revolution Lacrosse Richmond — Summer 2026 youth lacrosse for Rising 3rd–8th graders (8U–13U) in Richmond, VA."
+  description: "Revolution Lacrosse Richmond — Fall 2026 Sixes for Rising 3rd–8th graders (8U–13U), plus JV & Varsity, in Richmond, VA."
   keywords:
     - R3VA
     - Revolution Lacrosse Richmond
@@ -26,7 +26,7 @@ params:
     - Rising 6th Grade Lacrosse
     - Rising 7th Grade Lacrosse
     - Rising 8th Grade Lacrosse
-    - Summer 2026 Lacrosse
+    - Fall 2026 Sixes Lacrosse
     - Richmond Virginia Youth Sports
     - R(3)>< Lacrosse Philosophy Balanced Development
 
@@ -61,7 +61,7 @@ params:
   homeInfoParams:
     Logo: "images/r3va-logo.png"
     Title: "Revolution Lacrosse Richmond"
-    Subtitle: "Summer 2026 — Rising 3rd through 8th graders"
+    Subtitle: "Fall 2026 Sixes — Rising 3rd through 8th graders (plus JV & Varsity)"
     Content: |
       R3VA is Richmond, VA's **cost-effective** youth lacrosse program. We sit between expensive travel clubs and recreational leagues — focused on the holistic development of the athlete, not financial extraction or short-term accolades.
       <br>
@@ -78,7 +78,7 @@ params:
       **Cost is transparent.** Per-player pricing covers tournament entry, refs, fields, insurance, and a small ~15% operational margin for sustainability. No hidden fees — full breakdown shared up front.
       <br>
       <br>
-      **Six age bands for Summer 2026:**
+      **Age bands (individual birth years) for Fall 2026 Sixes:**
 
       - 8U — Class of 2036
       - 9U — Class of 2035
@@ -86,13 +86,13 @@ params:
       - 11U — Class of 2033
       - 12U — Class of 2032
       - 13U — Class of 2031
+      - **JV** — 2030–2029 &nbsp;·&nbsp; **Varsity** — 2028–2027
 
-      Two tournaments:
+      **🥍 Fall 2026 Sixes slate — now registering:**
 
-      - Legends Eastern Invitational (Jun 27–28, River City Sportsplex, Midlothian VA)
-      - Freedom Lax Fest (Jul 11–12, Havelock NC)
-
-      **🥍 Now registering — R3VA August Sixes.** We return to **Elite Sixes on Sunday, Aug 30, 2026** (Troy Park, Elkridge MD): two practices, 3+ tournament games, $200/player. [Register on PlayPass →](https://playpass.com/go/AZCK6hg)
+      - **August — Elite Sixes** · Sun, Aug 30 · Troy Park, Elkridge MD · two practices, 3+ games, $200/player · [Register on PlayPass →](https://playpass.com/r3va-lax/r3va-august-sixes-AZCK6hg)
+      - **November — Madlax Super Sixes** · Sun, Nov 1 · Episcopal HS, Alexandria VA · 6v6, ages 2031–2037 · [Event info →](https://www.madlaxevents.com/supersixes)
+      - **November — Elite Sixes** · Sun, Nov 29 · venue & pricing coming · [Event info →](https://elitesixchallenge.com/tournaments)
 
       → [August Sixes details](/r3va-lax/next-sixes/) &nbsp;·&nbsp; [See age group details](/r3va-lax/teams/) &nbsp;·&nbsp; [Full mission and philosophy](/r3va-lax/about/)
 
